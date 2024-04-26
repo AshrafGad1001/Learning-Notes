@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c1UV3Wq4iQXxD14ECTU9AgU2824OGiX66mbwckPytX8=",
+  "Hash": "8h5Fq95rqXJZ0s70r/npByt85EY52CSKeWl5UXNemmU=",
   "Source": "User Management  with Identity",
   "BasePath": "_content/User Management  with Identity",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "F:\\Courses\\Learning Notes and Some Code\\User Mangement Identity\\User Management  with Identity\\User Management  with Identity\\wwwroot\\Image\\R.png",
+      "SourceId": "User Management  with Identity",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Courses\\Learning Notes and Some Code\\User Mangement Identity\\User Management  with Identity\\User Management  with Identity\\wwwroot\\",
+      "BasePath": "_content/User Management  with Identity",
+      "RelativePath": "Image/R.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\R.png"
     },
     {
       "Identity": "F:\\Courses\\Learning Notes and Some Code\\User Mangement Identity\\User Management  with Identity\\User Management  with Identity\\wwwroot\\js\\site.js",
