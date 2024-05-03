@@ -1,0 +1,41 @@
+What is supervised and unsupervised learning in neural networks?
+
+=>In Supervised learning, you train the machine using data which is well “labeled.” 
+
+=>Unsupervised learning is a machine learning technique, where you do not need to supervise the model.
+
+=>Supervised learning allows you to collect data or produce a data output from the previous experience.
+
+What is learning in neural network differentiate between supervised learning and unsupervised learning?
+
+=>In supervised learning, input data is provided to the model along with the output.
+=>In unsupervised learning, only input data is provided to the model.
+=>The goal of supervised learning is to train the model so that it can predict the output when it is given new data.
+
+
+
+---(Is neural network supervised or unsupervised learning why?)
+A neural net is said to learn supervised, if the desired output is already known.
+While learning, one of the input patterns is given to the net’s input layer. 
+Neural nets that learn unsupervised have no such target outputs. (It can’t be determined what the result of the learning process will look like.)
+
+
+---- What is supervised and unsupervised learning with example?
+Unlike supervised learning, no teacher is provided that means no training will be given to the machine.
+
+
+Supervised machine learning      ===>Highly accurate.
+Unsupervised machine learning    ===>Less accurate.
+
+
+What is supervised learning in neural network?
+
+Supervised learning  is the machine learning task of learning a function that maps an input to an output based on example input-output pairs.
+A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples.
+
+What is example of supervised learning?
+
+text classification problems. 
+ ==>the goal is to predict the class label of a given piece of text.
+ ==>predict the felling of a piece of text, like a (tweet) or (product review).
+

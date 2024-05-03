@@ -1,0 +1,15 @@
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\bin\Debug\net6.0\LINQ Day 01.exe
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\bin\Debug\net6.0\LINQ Day 01.deps.json
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\bin\Debug\net6.0\LINQ Day 01.runtimeconfig.json
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\bin\Debug\net6.0\LINQ Day 01.dll
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\bin\Debug\net6.0\LINQ Day 01.pdb
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\obj\Debug\net6.0\LINQ Day 01.csproj.AssemblyReference.cache
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\obj\Debug\net6.0\LINQ Day 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\obj\Debug\net6.0\LINQ Day 01.AssemblyInfoInputs.cache
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\obj\Debug\net6.0\LINQ Day 01.AssemblyInfo.cs
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\obj\Debug\net6.0\LINQ Day 01.csproj.CoreCompileInputs.cache
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\obj\Debug\net6.0\LINQ Day 01.dll
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\obj\Debug\net6.0\refint\LINQ Day 01.dll
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\obj\Debug\net6.0\LINQ Day 01.pdb
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\obj\Debug\net6.0\LINQ Day 01.genruntimeconfig.cache
+C:\Users\SOFTLAPTOP\source\repos\LINQ Day 01\LINQ Day 01\obj\Debug\net6.0\ref\LINQ Day 01.dll

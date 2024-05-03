@@ -1,0 +1,33 @@
+ learn by example and learn by Analogy.
+
+Learniing apabiilliittiies can iimprove tthe performance of an inttelllliigentt systtem over ttiime.. The most popular approaches to machine learning are artificial neural networks and genetic algorithms. This lecture is dedicated to neural networks.
+
+
+A neural network can be defined as a model of reasoning based on the human brain. The brain consists of a densely interconnected set of nerve cells, or basic information processing units, called neurons.
+
+
+Each neuron has a very simple structure, but an army of such elements constitutes a tremendous processing power.
+
+-------------------------------------------------------------------------
+
+
+1. Neural networks are a type of machine learning algorithm that is modeled after the human brain.
+2. They are composed of neurons, which are interconnected and can process information in a similar way to how the brain does.
+3. Neural networks can be used for supervised learning tasks such as classification and regression, as well as unsupervised learning tasks such as clustering and dimensionality reduction.
+4. Neural networks use backpropagation to adjust weights and biases in order to minimize errors in predictions or classifications.
+5. Activation functions are used to determine the output of each neuron based on its inputs and weights.
+6. Convolutional neural networks (CNNs) are a type of neural network that is particularly useful for image recognition tasks due to their ability to detect patterns in images.
+7. Recurrent neural networks (RNNs) are another type of neural network that is useful for sequence-based tasks such as natural language processing (NLP).
+8. Generative adversarial networks (GANs) are a type of neural network that can generate new data from existing data sets by competing two models against each other in a game-like environment. 
+9. Deep learning is an area of machine learning that uses multiple layers of neural networks to process data more effectively than traditional methods such as linear regression or decision trees. 
+10. Neural networks have been used for many applications including computer vision, natural language processing, robotics, and autonomous vehicles, among others 
+
+----------------------------------------------------------------------
+
+1. Feed forward Neural Network: This type of neural network is the most basic type of neural network and consists of an input layer, an output layer, and one or more hidden layers in between. The neurons in the input layer receive input data and pass it on to the neurons in the hidden layers. The neurons in the hidden layers process the data and pass it on to the output layer.
+
+2. Convolutional Neural Network (CNN): This type of neural network is used for image recognition tasks such as object detection, facial recognition, and image classification. It consists of multiple convolutional layers that are used to extract features from images.
+
+3. Recurrent Neural Network (RNN): This type of neural network is used for tasks such as natural language processing, speech recognition, and time series analysis. It consists of multiple recurrent layers that are used to process sequences of data over time.
+
+4. Generative Adversarial Networks (GANs): This type of neural network consists of two networks: a generative network that generates new data based on existing data, and a discriminative network that evaluates the generated data and determines whether it is real or fake. GANs are used for tasks such as image generation, text generation, and style transfer.

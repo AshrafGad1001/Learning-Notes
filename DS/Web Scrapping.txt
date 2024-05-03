@@ -1,0 +1,19 @@
+1. Web scraping is the process of extracting data from websites using automated scripts or programs.
+
+2. It is used to collect large amounts of data from websites, which can then be used for analysis and other purposes.
+
+3. Web scraping can be done manually or using software tools such as web crawlers, web scrapers, and web spiders.
+
+4. Web scrapers are used to extract data from HTML documents, XML documents, and other types of documents.
+
+5. The data extracted can be stored in a database or a spreadsheet for further analysis and manipulation.
+
+6. Web scraping is often used to gather information from online sources such as social media sites, news sites, and product reviews sites. 
+
+7. It can also be used to monitor changes in websites over time or to track trends in the market or industry. 
+
+8. Web scraping can be used for collecting information  competitive , price comparison, market research, and more. 
+
+9. It is important to note that web scraping should only be done with the permission of the website owner or with public domain content that does not require permission to access or use it legally. 
+
+10. Web scraping is an effective way to collect large amounts of data quickly and efficiently without having to manually enter each piece of information into a database or spreadsheet program by hand
