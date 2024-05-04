@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\User Management  with Identity.props" />
-</Project>
