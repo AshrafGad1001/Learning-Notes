@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1.csproj", "{D0A62728-4531-4F4F-80DA-E7D630F3BCEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1.csproj", "{D0A62728-4531-4F4F-80DA-E7D630F3BCEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormCommand", "..\FormCommand\FormCommand.csproj", "{F6F658BD-CE9A-4975-A6DA-F586FB862D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLFormDataAdapter", "..\SQLFormDataAdapter\SQLFormDataAdapter.csproj", "{1C8EEA82-D7B4-43B4-AA29-326975F04D43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D0A62728-4531-4F4F-80DA-E7D630F3BCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0A62728-4531-4F4F-80DA-E7D630F3BCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0A62728-4531-4F4F-80DA-E7D630F3BCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F658BD-CE9A-4975-A6DA-F586FB862D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F658BD-CE9A-4975-A6DA-F586FB862D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F658BD-CE9A-4975-A6DA-F586FB862D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F658BD-CE9A-4975-A6DA-F586FB862D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8EEA82-D7B4-43B4-AA29-326975F04D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8EEA82-D7B4-43B4-AA29-326975F04D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8EEA82-D7B4-43B4-AA29-326975F04D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8EEA82-D7B4-43B4-AA29-326975F04D43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
