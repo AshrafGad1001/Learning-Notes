@@ -1,0 +1,29 @@
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\NorthWind UI.exe
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\NorthWind UI.deps.json
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\NorthWind UI.runtimeconfig.json
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\NorthWind UI.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\NorthWind UI.pdb
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind_UI.Form1.resources
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.csproj.GenerateResource.cache
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.AssemblyInfoInputs.cache
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.AssemblyInfo.cs
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.csproj.CoreCompileInputs.cache
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.sourcelink.json
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\refint\NorthWind UI.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.pdb
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.genruntimeconfig.cache
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\ref\NorthWind UI.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\BLL.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\DAL.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\BLL.pdb
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\bin\Debug\net8.0-windows\DAL.pdb
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.csproj.AssemblyReference.cache
+F:\Courses\Learning Notes and Some Code\EF\Solution1\NorthWind UI\obj\Debug\net8.0-windows\NorthWind UI.csproj.CopyComplete

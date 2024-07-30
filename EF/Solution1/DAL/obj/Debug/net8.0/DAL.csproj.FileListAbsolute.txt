@@ -1,0 +1,13 @@
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\bin\Debug\net8.0\DAL.deps.json
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\bin\Debug\net8.0\DAL.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\bin\Debug\net8.0\DAL.pdb
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\obj\Debug\net8.0\DAL.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\obj\Debug\net8.0\refint\DAL.dll
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\obj\Debug\net8.0\DAL.pdb
+F:\Courses\Learning Notes and Some Code\EF\Solution1\DAL\obj\Debug\net8.0\ref\DAL.dll
