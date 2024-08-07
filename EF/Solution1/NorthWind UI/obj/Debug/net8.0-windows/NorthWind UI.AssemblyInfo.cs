@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de1f48cbd2d01abd7e9bf82f954dd5ca12c81003")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthWind UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthWind UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
