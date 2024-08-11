@@ -42,5 +42,6 @@ namespace EF_Core.Models
                }
          */
         public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Book> Books { get; set; }
     }
 }
